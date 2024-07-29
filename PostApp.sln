@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostApp", "PostApp.csproj", "{A4906302-DAC4-4F0A-861D-032B8A71FFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4906302-DAC4-4F0A-861D-032B8A71FFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4906302-DAC4-4F0A-861D-032B8A71FFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4906302-DAC4-4F0A-861D-032B8A71FFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4906302-DAC4-4F0A-861D-032B8A71FFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

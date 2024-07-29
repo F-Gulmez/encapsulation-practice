@@ -1,0 +1,14 @@
+C:\repos\PostApp\bin\Debug\net8.0\PostApp.exe
+C:\repos\PostApp\bin\Debug\net8.0\PostApp.deps.json
+C:\repos\PostApp\bin\Debug\net8.0\PostApp.runtimeconfig.json
+C:\repos\PostApp\bin\Debug\net8.0\PostApp.dll
+C:\repos\PostApp\bin\Debug\net8.0\PostApp.pdb
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.AssemblyInfoInputs.cache
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.AssemblyInfo.cs
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.csproj.CoreCompileInputs.cache
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.dll
+C:\repos\PostApp\obj\Debug\net8.0\refint\PostApp.dll
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.pdb
+C:\repos\PostApp\obj\Debug\net8.0\PostApp.genruntimeconfig.cache
+C:\repos\PostApp\obj\Debug\net8.0\ref\PostApp.dll
